@@ -1,0 +1,25 @@
+.container{ 
+    background-color: rgb(168, 133, 21);
+    border: 5px solid rgb(112, 28, 28);
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+body{
+    background-image: url(HD-wallpaper-math-blackboard-texture-background-with-geometric-shapes-math-background-math-texture-geometric-lines-shapes-texture-mathematics-background.jpg);
+    background-repeat:  no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    color: rgb(154, 36, 36);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    color: rgb(240, 240, 240);
+}
